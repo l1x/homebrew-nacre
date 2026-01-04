@@ -9,9 +9,9 @@ brew install nacre
 
 ## Available Formulae
 
-| Formula | Description                    |
-| ------- | ------------------------------ |
-| nacre   | A modern shell written in Rust |
+| Formula | Description                   |
+| ------- | ----------------------------- |
+| nacre   | Agentic project management UI |
 
 ## Updating
 
